@@ -32,8 +32,8 @@ export default function Home() {
           priority
         />
         <ol>
-          <li>
-            Get started by editing <code>apps/web/app/page.tsx</code>
+          <li className="text-2xl bg-yellow-600 text-white p-4 rounded-md hover:bg-black">
+            Aqui se esta usando tailwindcss
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
